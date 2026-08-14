@@ -234,7 +234,9 @@ The simulation output indicates that the system reaches approximately **407.9 V*
 
 ---
 
-## Demo
+## Demo <img width="825" height="295" alt="image" src="https://github.com/user-attachments/assets/c0eba60c-f8f8-4f9f-8f9c-0ba3f035b514" />
+
+**Demo:** <img width="1600" height="782" alt="WhatsApp Image 2026-08-14 at 1 47 57 PM" src="https://github.com/user-attachments/assets/d6e5a9ab-9ca9-4eaf-ad41-f7e2029096d7" />
 
 
 **Demo Video:** `AUTOMATED WIRELESS CHARGING SYSTEM (1).mp4`
